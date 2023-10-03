@@ -104,7 +104,7 @@ public class LogService {
     public static MongoDatabase createConnection() {
         MongoDatabase mongoDatabase = null;
         try {
-            MongoClient mongoClient = MongoClients.create("mongodb://44.203.153.167:27017/?maxPoolSize=20&w=majority");
+            MongoClient mongoClient = MongoClients.create("mongodb://18.209.167.253:27017/?maxPoolSize=20&w=majority");
             mongoDatabase = mongoClient.getDatabase("lab_arep_6");
         } catch (MongoException ex){
             System.out.println(ex.toString());

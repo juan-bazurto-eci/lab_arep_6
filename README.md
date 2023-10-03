@@ -93,15 +93,17 @@ Lanzamos docker y en los respectivos puertos corremos las imagenes de DockerHub
 ![](README/aws_1.png)
 ![](README/aws_2.png)
 
-
+[Video AWS](https://pruebacorreoescuelaingeduco-my.sharepoint.com/:v:/g/personal/juan_bazurto_mail_escuelaing_edu_co/EY_Ja1C6NNFDsejazYHmF84B2M7kmd4Dh57LU52KYIAdGg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=cWkPBb)
 
 ## Built With
 * [Java](https://www.java.com/) - Lenguaje de programación principal
 * [Maven](https://maven.apache.org/) - Gestión de dependencias y construcción del proyecto
 * Git - Control de versiones
+* HTML, JavaScript - Interfaz de usuario
 * [DockerHub](https://hub.docker.com/)
 * [SparkJava](https://sparkjava.com/)
-* HTML, JavaScript - Interfaz de usuario
+* [MongoDB](https://www.mongodb.com/)
+* [Amazon Web Services](https://aws.amazon.com/)
 
 ## Authors
 
